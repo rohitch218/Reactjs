@@ -1,5 +1,5 @@
 pipeline {
-    agent any
+    agent React-Dev-Node
 
     environment {
         IMAGE_NAME = "react-app"
